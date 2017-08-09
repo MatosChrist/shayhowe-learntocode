@@ -26,3 +26,11 @@
 - How to use multiple classes on a single element to layer on different styles for more modular code
 - The different color values available to use within CSS, including keyword, hexadecimal, RGB, and HSL values
 - The different length values available to use within CSS, including pixels, percentages, and em units
+
+## Lesson 4
+### Summary 
+- How different elements are displayed
+- What the box model is and why it’s important
+- How to change the size, including the height and width, of elements
+- How to add margin, padding, and borders to elements
+- How to change the box sizing of elements and the effects this has on the box model
